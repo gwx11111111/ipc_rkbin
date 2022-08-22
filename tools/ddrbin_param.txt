@@ -6,7 +6,7 @@ ddr3_freq=
 lp3_freq=
 ddr4_freq=
 lp4_freq=
-lp4x_freq=
+lp4x_freq=1800
 lp5_freq=
 
 uart id=
@@ -218,9 +218,9 @@ ddr4_cs0_dq16_dq31_map=
 ddr4_cs1_dq0_dq15_map=
 ddr4_cs1_dq16_dq31_map=
 
-lp4x_f1_freq_mhz=
-lp4x_f2_freq_mhz=
-lp4x_f3_freq_mhz=
+lp4x_f1_freq_mhz=528
+lp4x_f2_freq_mhz=1068
+lp4x_f3_freq_mhz=1560
 lp4x_f4_freq_mhz=
 lp4x_f5_freq_mhz=
 phy_lp4x_dq_drv_when_odten_ohm=
