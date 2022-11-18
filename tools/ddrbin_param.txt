@@ -6,7 +6,7 @@ ddr3_freq=
 lp3_freq=
 ddr4_freq=
 lp4_freq=
-lp4x_freq=1800
+lp4x_freq=1584
 lp5_freq=
 
 uart id=
